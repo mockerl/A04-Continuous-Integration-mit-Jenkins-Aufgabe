@@ -3,8 +3,10 @@ Created on 27.12.2013
 
 @author: uhs374h
 """
+
 import unittest
-from Bruch import *
+
+from bruch.Bruch import *
 
 
 class TestAllgemein(unittest.TestCase):
