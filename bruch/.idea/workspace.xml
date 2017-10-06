@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cdfbad2-8fe4-4ec3-b6ce-2576c6fd7f27" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bruch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/make.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/source/bruch.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/source/conf.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/source/index.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Unit_Addition.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Unit_Allgemein.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Unit_Division.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Unit_Multiplikation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Unit_String.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Unit_Subtraktion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Unit_Vergleich.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/Unit_Zusatz.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/testfall.py" afterPath="" />
-    </list>
+    <list default="true" id="7cdfbad2-8fe4-4ec3-b6ce-2576c6fd7f27" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/bruch$Unittests_in_testfall_py__1_.coverage" NAME="Unittests in testfall.py (1) Coverage Results" MODIFIED="1507279437009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bruch/test" />
+    <SUITE FILE_PATH="coverage/bruch$Unittests_in_testfall_py__1_.coverage" NAME="Unittests in testfall.py (1) Coverage Results" MODIFIED="1507282001926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bruch/test" />
     <SUITE FILE_PATH="coverage/bruch$Unittests_in_testfall_py.coverage" NAME="Unittests in testfall.py Coverage Results" MODIFIED="1507279210749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
@@ -416,6 +398,9 @@
       <configuration name="Unittests in testfall.py (1)" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_testfall_py_(1) - 2017.10.06 at 10h 43m 57s.xml">
+      <configuration name="Unittests in testfall.py (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testfall_py_(1) - 2017.10.06 at 11h 26m 42s.xml">
       <configuration name="Unittests in testfall.py (1)" configurationId="tests" />
     </history-entry>
   </component>
